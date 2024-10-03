@@ -1,0 +1,4 @@
+repository "project2d@TeamKillMaster@cloud"
+  path "/"
+    br "/main"
+    co "/main"

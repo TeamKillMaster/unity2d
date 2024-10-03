@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Weapon
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Layer 1
+  - Layer 2
+  - Layer 3
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: waterSplash
+    uniqueID: 2425651459
+    locked: 0
+  - name: Environment
+    uniqueID: 4250941897
+    locked: 0
+  - name: 
+    uniqueID: 4189426099
+    locked: 0
+  - name: effect
+    uniqueID: 3861545317
+    locked: 0
+  - name: Weather
+    uniqueID: 183268477
+    locked: 0
